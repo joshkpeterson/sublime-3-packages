@@ -1,0 +1,67 @@
+{
+	"binary_file_patterns":
+	[
+		"/Users/joshy/Projects/Nimia/app/ninu/static*",
+		"/Users/joshy/Projects/Nimia/app/ninu/ninu/static/css/*",
+		"*.css",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.scssc"
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Colorsublime/themes/josh_custom_2.tmTheme",
+	"enable_tab_scrolling": false,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.main.js",
+		"*.main.js.map"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Emmet",
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"show_full_path": true,
+	"vintage_start_in_command_mode": false
+}

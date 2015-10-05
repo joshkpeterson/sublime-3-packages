@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Better TypeScript",
+		"BracketHighlighter",
+		"Colorsublime",
+		"CSScomb",
+		"Emmet",
+		"GitGutter",
+		"JSHint",
+		"JSHint Gutter",
+		"LESS",
+		"LiveReload",
+		"Package Control",
+		"Sass",
+		"SublimeCodeIntel"
+	]
+}

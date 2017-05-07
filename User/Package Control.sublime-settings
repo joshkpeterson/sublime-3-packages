@@ -15,9 +15,11 @@
 		"JSHint",
 		"JSHint Gutter",
 		"LESS",
-		"LiveReload",
 		"Package Control",
+		"Pretty JSON",
 		"Sass",
-		"SublimeCodeIntel"
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Vuejs Complete Package"
 	]
 }

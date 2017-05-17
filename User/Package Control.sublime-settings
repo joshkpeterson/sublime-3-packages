@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Babel",
 		"Better TypeScript",
 		"BracketHighlighter",
 		"Colorsublime",
@@ -17,6 +18,7 @@
 		"LESS",
 		"Package Control",
 		"Pretty JSON",
+		"ReactJS",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",

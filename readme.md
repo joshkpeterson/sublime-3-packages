@@ -1,4 +1,6 @@
-Files are at /Users/joshy/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+Files are at 
+
+~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 
 OR
 

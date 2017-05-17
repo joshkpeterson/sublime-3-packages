@@ -20,7 +20,7 @@
 		"*.scssc"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Colorsublime/themes/josh_custom_2.tmTheme",
+	"color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",
 	"draw_white_space": "all",
 	"enable_tab_scrolling": false,
 	"file_exclude_patterns":
@@ -61,7 +61,8 @@
 	[
 		"Emmet",
 		"SublimeCodeIntel",
-		"Vintage"
+		"Vintage",
+		"Vuejs Complete Package"
 	],
 	"show_full_path": true,
 	"vintage_start_in_command_mode": false

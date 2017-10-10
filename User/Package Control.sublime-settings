@@ -2,20 +2,28 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Package Control"
 	],
 	"installed_packages":
 	[
 		"All Autocomplete",
 		"Babel",
-		"Better TypeScript",
+		"BEMHTML",
 		"BracketHighlighter",
 		"Colorsublime",
+		"CSS Extended Completions",
 		"CSScomb",
 		"Emmet",
 		"GitGutter",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
 		"JSHint",
 		"JSHint Gutter",
+		"JSONLint",
+		"JsonTree",
 		"LESS",
+		"MarkdownHighlighting",
+		"MarkdownLight",
 		"Package Control",
 		"Pretty JSON",
 		"ReactJS",

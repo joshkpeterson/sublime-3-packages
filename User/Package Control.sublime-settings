@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Package Control"
 	],
 	"installed_packages":
 	[
@@ -10,6 +9,7 @@
 		"Babel",
 		"BEMHTML",
 		"BracketHighlighter",
+		"C# Snippets",
 		"Colorsublime",
 		"CSS Extended Completions",
 		"CSScomb",
@@ -17,6 +17,7 @@
 		"GitGutter",
 		"Handlebars",
 		"HTML-CSS-JS Prettify",
+		"Jinja2",
 		"JSHint",
 		"JSHint Gutter",
 		"JSONLint",
@@ -24,12 +25,17 @@
 		"LESS",
 		"MarkdownHighlighting",
 		"MarkdownLight",
+		"OmniSharp",
 		"Package Control",
 		"Pretty JSON",
 		"ReactJS",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"Unity Completions",
+		"Unity Completions Light",
+		"Unity3D",
+		"Unity3D Snippets and Completes",
 		"Vuejs Complete Package"
 	]
 }
